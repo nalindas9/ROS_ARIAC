@@ -1,6 +1,10 @@
 # ARIAC (Agile Robotics for Industrial Automation Competition) 2020
 
 This project was developed as a course project for ENPM809B - Building a Manufacturing Robot Software Systems at the University of Maryland, College Park. For more details about the competition, please visit official competition page [here](https://www.nist.gov/el/intelligent-systems-division-73500/agile-robotics-industrial-automation-competition).<br>
+
+## System Diagram
+![ARIAC_2020_System_Diagram](https://github.com/nalindas9/ROS_ARIAC/assets/44141068/e6762f41-e53f-4bee-be09-1b9a63f20818)
+
 Group members-
 * [Saumil Shah](https://github.com/SaumilShah66)
 * [Varun Asthana](https://github.com/varunasthana92)
