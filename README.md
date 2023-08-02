@@ -5,6 +5,8 @@ This project was developed as a course project for ENPM809B - Building a Manufac
 ## System Diagram
 ![ARIAC_2020_System_Diagram](https://github.com/nalindas9/ROS_ARIAC/assets/44141068/e6762f41-e53f-4bee-be09-1b9a63f20818)
 
+![ARIAC_2020_System](https://github.com/nalindas9/ROS_ARIAC/assets/44141068/71005727-e46a-4e86-980c-a3feabb036ae)
+
 Group members-
 * [Saumil Shah](https://github.com/SaumilShah66)
 * [Varun Asthana](https://github.com/varunasthana92)
